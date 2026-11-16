@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel files
+*.xlsx
+
+# Generated CSV files
+*.csv
